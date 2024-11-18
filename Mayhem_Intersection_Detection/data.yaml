@@ -1,0 +1,5 @@
+names:
+  0: Bag
+  1: Bagless
+path: .
+train: train.txt
