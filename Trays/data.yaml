@@ -1,0 +1,7 @@
+names:
+  0: Bag
+  1: Bagless
+nc: 2
+
+train: datasets/train/images
+val: datasets/train/images

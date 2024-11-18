@@ -1,0 +1,5 @@
+train: train/images  # Relative path to the training images
+val: train/images      # Relative path to the validation images (ensure this folder exists as well)
+
+nc: 1  # Number of classes (1 for "Tag")
+names: ['Tag']  # List of class names
